@@ -1,2 +1,4 @@
-# chinese-elements
-This repository catalogs Chinese cultural design artifacts, exploring their origins, storytelling traditions, and symbolic significance.
+# 中国元素
+
+本项目致力于系统整理中华文化设计元素，探究其起源、故事传承及象征意义。
+
